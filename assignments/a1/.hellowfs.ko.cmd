@@ -1,0 +1,1 @@
+cmd_/home/student/kernel/assignments/a1/hellowfs.ko := ld -r -m elf_i386 -T /home/student/kernel/linux-2.6.32.68/scripts/module-common.lds --build-id -o /home/student/kernel/assignments/a1/hellowfs.ko /home/student/kernel/assignments/a1/hellowfs.o /home/student/kernel/assignments/a1/hellowfs.mod.o
